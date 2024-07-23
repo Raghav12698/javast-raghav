@@ -81,7 +81,7 @@ public class Arrays2
     }
     public static int maxArray(int[]a)
     {
-g        int max=0;
+       int max=0;
         for(int i=0;i<a.length;i++)
         {
             if(max>a[i])

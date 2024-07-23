@@ -72,9 +72,20 @@ public class Arrays4
             arr[(i+k)%arr.length]=nums[i];
         }
         nums=arr;
-        System.out.print(arr+"");
+        
     }
-
+    public void rotate(int[] nums, int k) 
+    {
+        int [] arr= new int[nums.length];
+    
+        for(int i=0;i<nums.length;i++)
+        { 
+            arr[(i+k)%arr.length]=nums[i];
+            
+        }
+        for(int i=0;i<nums.length;i++)
+            nums[i]=arr[i];
+    }
 
     public static void main(String[] args) 
     {
@@ -82,7 +93,7 @@ public class Arrays4
         //subArray(arr);
         //subArrayMaxSum(arr);
         Arrays2.displayArray(arr);
-        rotateByK(arr,3);
+        
         Arrays2.displayArray(arr);
 
         
