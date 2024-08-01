@@ -9,8 +9,6 @@ public class twoDArrays1
         Arrays.sort(nums);
         display(nums);
         fillArr(arr, nums);
-       
-        
     }
     static void fillArr(int [][]arr,int[] nums)
     {
