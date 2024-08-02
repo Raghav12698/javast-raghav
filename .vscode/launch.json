@@ -1,0 +1,392 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "House",
+            "request": "launch",
+            "mainClass": "House",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "Day0.HelloWorld",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "work",
+            "request": "launch",
+            "mainClass": "Day0.work",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Datatypes",
+            "request": "launch",
+            "mainClass": "Day1.Datatypes",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Even",
+            "request": "launch",
+            "mainClass": "Day1.Even",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Multiple",
+            "request": "launch",
+            "mainClass": "Day1.Multiple",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Operator",
+            "request": "launch",
+            "mainClass": "Day1.Operator",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Day1.Operators",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Day3.Arrays",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Arrays2",
+            "request": "launch",
+            "mainClass": "Day4.Arrays2",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Arrays3",
+            "request": "launch",
+            "mainClass": "Day5.Day5.Arrays3",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Arrays4",
+            "request": "launch",
+            "mainClass": "Day6.Arrays4",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Arrays5",
+            "request": "launch",
+            "mainClass": "Week2.Day1.Arrays5",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "twoDArrays",
+            "request": "launch",
+            "mainClass": "Week2.Day2.twoDArrays",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "twoDArrays1",
+            "request": "launch",
+            "mainClass": "Week3.Day1.twoDArrays1",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "arrayList",
+            "request": "launch",
+            "mainClass": "arrayList",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "hw.q1",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q10",
+            "request": "launch",
+            "mainClass": "hw.q10",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q11",
+            "request": "launch",
+            "mainClass": "hw.q11",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q12",
+            "request": "launch",
+            "mainClass": "hw.q12",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q13",
+            "request": "launch",
+            "mainClass": "hw.q13",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q14",
+            "request": "launch",
+            "mainClass": "hw.q14",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q15",
+            "request": "launch",
+            "mainClass": "hw.q15",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q16",
+            "request": "launch",
+            "mainClass": "hw.q16",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q17",
+            "request": "launch",
+            "mainClass": "hw.q17",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q18",
+            "request": "launch",
+            "mainClass": "hw.q18",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q19",
+            "request": "launch",
+            "mainClass": "hw.q19",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "hw.q2",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q20",
+            "request": "launch",
+            "mainClass": "hw.q20",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q21",
+            "request": "launch",
+            "mainClass": "hw.q21",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q22",
+            "request": "launch",
+            "mainClass": "hw.q22",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q23",
+            "request": "launch",
+            "mainClass": "hw.q23",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q24",
+            "request": "launch",
+            "mainClass": "hw.q24",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q25",
+            "request": "launch",
+            "mainClass": "hw.q25",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q26",
+            "request": "launch",
+            "mainClass": "hw.q26",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q27",
+            "request": "launch",
+            "mainClass": "hw.q27",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q28",
+            "request": "launch",
+            "mainClass": "hw.q28",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q29",
+            "request": "launch",
+            "mainClass": "hw.q29",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q29_2",
+            "request": "launch",
+            "mainClass": "hw.q29_2",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "hw.q3",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q30",
+            "request": "launch",
+            "mainClass": "hw.q30",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q31",
+            "request": "launch",
+            "mainClass": "hw.q31",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q32",
+            "request": "launch",
+            "mainClass": "hw.q32",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q33",
+            "request": "launch",
+            "mainClass": "hw.q33",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q4",
+            "request": "launch",
+            "mainClass": "hw.q4",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "hw.q5",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q6",
+            "request": "launch",
+            "mainClass": "hw.q6",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q7",
+            "request": "launch",
+            "mainClass": "hw.q7",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q8",
+            "request": "launch",
+            "mainClass": "hw.q8",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "q9",
+            "request": "launch",
+            "mainClass": "hw.q9",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "Q26",
+            "request": "launch",
+            "mainClass": "leetcodearray.Q26",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "oops",
+            "request": "launch",
+            "mainClass": "oops",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "wrapperlass",
+            "request": "launch",
+            "mainClass": "wrapperlass",
+            "projectName": "javast-raghav_66165ddc"
+        }
+    ]
+}

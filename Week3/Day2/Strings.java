@@ -54,7 +54,7 @@ public class Strings
         int count=1,temp=1;
         for(int i=1;i<s.length();i++)
         {
-            if(s.charAt(i)==s.charAt(i-10-))
+            if(s.charAt(i)==s.charAt(i-10))
             {
                 temp++;
             }
