@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Recursion1",
+            "request": "launch",
+            "mainClass": "Week4.Day2.Recursion1",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "Week4.Day1.recursion",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
             "name": "House",
             "request": "launch",
             "mainClass": "House",
