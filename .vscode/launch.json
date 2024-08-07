@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cheezy",
+            "request": "launch",
+            "mainClass": "Week4.Day3.Cheezy",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Week4.Day3.MergeSort",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "toweofHanoi",
+            "request": "launch",
+            "mainClass": "Week0.leetcodearray.toweofHanoi",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
             "name": "Recursion1",
             "request": "launch",
             "mainClass": "Week4.Day2.Recursion1",
