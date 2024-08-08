@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ratInAMmaze",
+            "request": "launch",
+            "mainClass": "Week4.Day4.ratInAMmaze",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
             "name": "Cheezy",
             "request": "launch",
             "mainClass": "Week4.Day3.Cheezy",
