@@ -50,3 +50,4 @@ public class ratInAMmaze
         //display(5,5);
     }
 }
+  

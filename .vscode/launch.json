@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SolveSudoku",
+            "request": "launch",
+            "mainClass": "Week4.Day5.SolveSudoku",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "SolveNQueens",
+            "request": "launch",
+            "mainClass": "Week4.Day5.SolveNQueens",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
             "name": "ratInAMmaze",
             "request": "launch",
             "mainClass": "Week4.Day4.ratInAMmaze",
