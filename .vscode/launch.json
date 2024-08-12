@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stakNextGreater",
+            "request": "launch",
+            "mainClass": "stakNextGreater",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "stacks",
+            "request": "launch",
+            "mainClass": "stacks",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
             "name": "SolveSudoku",
             "request": "launch",
             "mainClass": "Week4.Day5.SolveSudoku",
