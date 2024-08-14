@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HMapProblem",
+            "request": "launch",
+            "mainClass": "HMapProblem",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
+            "name": "HashMaps",
+            "request": "launch",
+            "mainClass": "HashMaps",
+            "projectName": "javast-raghav_66165ddc"
+        },
+        {
+            "type": "java",
             "name": "stakNextGreater",
             "request": "launch",
             "mainClass": "stakNextGreater",
