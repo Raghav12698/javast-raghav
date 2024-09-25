@@ -1,4 +1,4 @@
-package Week0.leetcodearray;
+package leetcodearray;
 public class toweofHanoi 
 {
     static void towerofHanoi(int n,String a,String b,String c)
